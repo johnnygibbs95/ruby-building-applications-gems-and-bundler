@@ -19,7 +19,7 @@ GEM
       ruby2_keywords (~> 0.0.1)
     octokit (2.7.2)
       sawyer (~> 0.5.2)
-    pry (0.13.1)
+    pry (0.14.0)
       coderay (~> 1.1)
       method_source (~> 1.0)
     rack (2.2.3)
@@ -38,7 +38,7 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.10.0)
     rspec-support (3.10.2)
-    ruby2_keywords (0.0.2)
+    ruby2_keywords (0.0.4)
     sawyer (0.5.5)
       addressable (~> 2.3.5)
       faraday (~> 0.8, < 0.10)
@@ -50,7 +50,7 @@ GEM
     tilt (2.0.10)
 
 PLATFORMS
-  ruby
+  x86_64-linux
 
 DEPENDENCIES
   awesome_print!
@@ -61,4 +61,4 @@ DEPENDENCIES
   sinatra (= 2.0.2)
 
 BUNDLED WITH
-   2.1.4
+   2.2.13
